@@ -5,11 +5,11 @@
 */
 window.SITE_CONFIG = {
   // Exemplo: "nome@dominio.com.br"
-  email: "",
+  email: "felipe_alves1304@hotmail.com",
   // Somente números, com país e DDD. Exemplo: "5511999999999"
-  whatsapp: "",
+  whatsapp: "5511987520411",
   // Endereço completo. Exemplo: "https://www.linkedin.com/in/seu-perfil"
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/felipe-alves-7778ab5a/",
   // Endereço completo. Exemplo: "https://github.com/seu-usuario"
-  github: ""
+  github: "https://github.com/thilipe"
 };
