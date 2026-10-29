@@ -10,7 +10,6 @@ js/main.js        menu do celular, botões de contato e animações
 assets/favicon.svg
 ```
 
-
 ## Como abrir e testar
 
 - Mais simples: dê dois cliques em `index.html`.
